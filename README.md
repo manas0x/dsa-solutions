@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manas0x/leetcode-solutions/tree/main/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/manas0x/leetcode-solutions/tree/main/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -18,6 +20,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/manas0x/leetcode-solutions/tree/main/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -40,4 +43,17 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/manas0x/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
