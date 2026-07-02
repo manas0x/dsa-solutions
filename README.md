@@ -9,6 +9,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manas0x/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
@@ -78,11 +79,13 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
 |  |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,4 +128,9 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
