@@ -11,6 +11,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/manas0x/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,12 +134,18 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
