@@ -51,6 +51,7 @@
 | [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manas0x/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manas0x/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
