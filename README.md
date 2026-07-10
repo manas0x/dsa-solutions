@@ -16,6 +16,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manas0x/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manas0x/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/manas0x/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/manas0x/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
@@ -91,6 +93,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manas0x/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +120,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/manas0x/leetcode-solutions/tree/main/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manas0x/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -132,6 +137,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manas0x/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manas0x/leetcode-solutions/tree/main/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -162,6 +168,7 @@
 | [0016-3sum-closest](https://github.com/manas0x/leetcode-solutions/tree/main/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manas0x/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -170,4 +177,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manas0x/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
