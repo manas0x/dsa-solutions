@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manas0x/leetcode-solutions/tree/main/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/manas0x/leetcode-solutions/tree/main/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/manas0x/leetcode-solutions/tree/main/0292-nim-game) |
 | [0326-power-of-three](https://github.com/manas0x/leetcode-solutions/tree/main/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manas0x/leetcode-solutions/tree/main/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/manas0x/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manas0x/leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii) |
@@ -195,5 +197,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manas0x/leetcode-solutions/tree/main/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/manas0x/leetcode-solutions/tree/main/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
