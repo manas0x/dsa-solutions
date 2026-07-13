@@ -67,9 +67,16 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | ------- |
 | [0008-string-to-integer-atoi](./LeetCode/String/0008-string-to-integer-atoi) |
 
+### Unknown
+| Problem |
+| ------- |
+| [1291-sequential-digits](./LeetCode/Unknown/1291-sequential-digits) |
+
 ## 📁 GeeksForGeeks
 
 | Problem |
 | ------- |
+| [Activity Selection - GFG](./GeeksForGeeks/Activity%20Selection%20-%20GFG) |
+| [Meeting Rooms - GFG](./GeeksForGeeks/Meeting%20Rooms%20-%20GFG) |
 | [Shortest Job first - GFG](./GeeksForGeeks/Shortest%20Job%20first%20-%20GFG) |
 
