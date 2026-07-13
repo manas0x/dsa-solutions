@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 
 repo_dir = "."
 
@@ -15,25 +16,33 @@ for platform in ["LeetCode", "GeeksForGeeks"]:
     readme_content += f"## 📁 {platform}\n\n"
     
     items = sorted(os.listdir(platform_dir))
-    for item in items:
-        item_dir = os.path.join(platform_dir, item)
-        if not os.path.isdir(item_dir):
-            continue
-        
-        if platform == "GeeksForGeeks":
-            problem = item
-            encoded_problem = problem.replace(" ", "%20")
-            readme_content += f" - 📄 [{problem}](./{platform}/{encoded_problem})\n"
-        else:
-            topic = item
-            readme_content += f"<details>\n<summary><b>{topic.replace('-', ' ')}</b></summary>\n<br>\n\n"
-            problems = sorted(os.listdir(item_dir))
+    
+    if platform == "GeeksForGeeks":
+        readme_content += "| Problem |\n| ------- |\n"
+        for item in items:
+            item_dir = os.path.join(platform_dir, item)
+            if not os.path.isdir(item_dir):
+                continue
+            encoded_problem = urllib.parse.quote(item)
+            readme_content += f"| [{item}](./{platform}/{encoded_problem}) |\n"
+        readme_content += "\n"
+    else:
+        for topic in items:
+            topic_dir = os.path.join(platform_dir, topic)
+            if not os.path.isdir(topic_dir):
+                continue
+            
+            readme_content += f"### {topic.replace('-', ' ')}\n"
+            readme_content += "| Problem |\n| ------- |\n"
+            
+            problems = sorted(os.listdir(topic_dir))
             for problem in problems:
-                if os.path.isdir(os.path.join(item_dir, problem)):
-                    encoded_topic = topic.replace(" ", "%20")
-                    encoded_problem = problem.replace(" ", "%20")
-                    readme_content += f" - 📄 [{problem}](./{platform}/{encoded_topic}/{encoded_problem})\n"
-            readme_content += "\n</details>\n\n"
+                if os.path.isdir(os.path.join(topic_dir, problem)):
+                    encoded_topic = urllib.parse.quote(topic)
+                    encoded_problem = urllib.parse.quote(problem)
+                    readme_content += f"| [{problem}](./{platform}/{encoded_topic}/{encoded_problem}) |\n"
+            
+            readme_content += "\n"
 
 with open(os.path.join(repo_dir, "README.md"), "w") as f:
     f.write(readme_content)
