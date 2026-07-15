@@ -59,6 +59,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0292-nim-game](./LeetCode/Math/0292-nim-game) |
 | [0326-power-of-three](./LeetCode/Math/0326-power-of-three) |
 | [0509-fibonacci-number](./LeetCode/Math/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](./LeetCode/Math/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](./LeetCode/Math/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](./LeetCode/Math/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](./LeetCode/Math/3783-mirror-distance-of-an-integer) |
