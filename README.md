@@ -1,6 +1,10 @@
 # 🚀 Coding Interview Solutions
 A comprehensive collection of my data structures and algorithms solutions, neatly organized by platform and topic tags!
 
+<div align="center">
+  <img src="https://manas.eu.org/leetcode/stats.php?u=manas0x" alt="LeetCode Stats" />
+</div>
+
 ## 📁 LeetCode
 
 ### Array
