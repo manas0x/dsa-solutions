@@ -16,6 +16,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0026-remove-duplicates-from-sorted-array](./LeetCode/Array/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](./LeetCode/Array/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](./LeetCode/Array/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](./LeetCode/Array/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](./LeetCode/Array/0455-assign-cookies) |
 | [0860-lemonade-change](./LeetCode/Array/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](./LeetCode/Array/0977-squares-of-a-sorted-array) |
