@@ -160,7 +160,7 @@
         fill="#FFA116"
         font-family="Segoe UI, Arial"
     >
-        312    </text>
+        313    </text>
 
     <!-- Acceptance -->
     <rect
@@ -191,7 +191,7 @@
         fill="#58A6FF"
         font-family="Segoe UI, Arial"
     >
-        71.35%
+        71.20%
     </text>
 
     <!-- Ranking -->
@@ -289,14 +289,14 @@
         <animate
             attributeName="width"
             from="0"
-            to="217.95"
+            to="217.25"
             dur="0.8s"
             fill="freeze"/>
     </rect>
 
     <!-- Medium -->
     <rect
-        x="242.94871794872"
+        x="242.25239616613"
         y="258"
         width="0"
         height="12"
@@ -305,13 +305,13 @@
         <animate
             attributeName="width"
             from="0"
-            to="96.99"
+            to="97.76"
             dur="1.1s"
             fill="freeze"/>
     </rect>
         <!-- Hard -->
     <rect
-        x="339.9358974359"
+        x="340.01597444089"
         y="258"
         width="0"
         height="12"
@@ -321,7 +321,7 @@
         <animate
             attributeName="width"
             from="0"
-            to="25.06"
+            to="24.98"
             dur="1.4s"
             fill="freeze"/>
     </rect>
@@ -345,7 +345,7 @@
         fill="#C9D1D9"
         font-family="Segoe UI, Arial"
     >
-        Medium 89    </text>
+        Medium 90    </text>
 
     <circle cx="255" cy="285" r="4" fill="#FF375F"/>
     <text

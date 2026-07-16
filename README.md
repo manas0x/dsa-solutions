@@ -32,6 +32,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [3620-network-recovery-pathways](./LeetCode/Array/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](./LeetCode/Array/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](./LeetCode/Array/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](./LeetCode/Array/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](./LeetCode/Array/3898-find-the-degree-of-each-vertex) |
 
 ### Depth First Search
