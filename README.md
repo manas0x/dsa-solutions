@@ -25,6 +25,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1331-rank-transform-of-an-array](./LeetCode/Array/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](./LeetCode/Array/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](./LeetCode/Array/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](./LeetCode/Array/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](./LeetCode/Array/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](./LeetCode/Array/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](./LeetCode/Array/3286-find-a-safe-walk-through-a-grid) |
