@@ -26,6 +26,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1288-remove-covered-intervals](./LeetCode/Array/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](./LeetCode/Array/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](./LeetCode/Array/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](./LeetCode/Array/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](./LeetCode/Array/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](./LeetCode/Array/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](./LeetCode/Array/1967-number-of-strings-that-appear-as-substrings-in-word) |
