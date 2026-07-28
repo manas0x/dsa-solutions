@@ -85,6 +85,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | Problem |
 | ------- |
 | [0008-string-to-integer-atoi](./LeetCode/String/0008-string-to-integer-atoi) |
+| [3517-smallest-palindromic-rearrangement-i](./LeetCode/String/3517-smallest-palindromic-rearrangement-i) |
 
 ### Two Pointers
 | Problem |
