@@ -61,6 +61,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | ------- |
 | [1189-maximum-number-of-balloons](./LeetCode/Hash-Table/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](./LeetCode/Hash-Table/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](./LeetCode/Hash-Table/3016-minimum-number-of-pushes-to-type-word-ii) |
 
 ### Linked List
 | Problem |
