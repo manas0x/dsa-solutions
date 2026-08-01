@@ -19,6 +19,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0167-two-sum-ii-input-array-is-sorted](./LeetCode/Array/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](./LeetCode/Array/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](./LeetCode/Array/0455-assign-cookies) |
+| [0486-predict-the-winner](./LeetCode/Array/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](./LeetCode/Array/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](./LeetCode/Array/0860-lemonade-change) |
 | [0867-transpose-matrix](./LeetCode/Array/0867-transpose-matrix) |
