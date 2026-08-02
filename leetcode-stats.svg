@@ -160,7 +160,7 @@
         fill="#FFA116"
         font-family="Segoe UI, Arial"
     >
-        335    </text>
+        336    </text>
 
     <!-- Acceptance -->
     <rect
@@ -191,7 +191,7 @@
         fill="#58A6FF"
         font-family="Segoe UI, Arial"
     >
-        71.60%
+        71.63%
     </text>
 
     <!-- Ranking -->
@@ -213,7 +213,7 @@
         fill="#58A6FF"
         font-family="Segoe UI, Arial"
     >
-        412806    </text>
+        411406    </text>
 
     <!-- Contest Rating -->
     <text
@@ -289,14 +289,14 @@
         <animate
             attributeName="width"
             from="0"
-            to="211.1"
+            to="210.48"
             dur="0.8s"
             fill="freeze"/>
     </rect>
 
     <!-- Medium -->
     <rect
-        x="236.10447761194"
+        x="235.47619047619"
         y="258"
         width="0"
         height="12"
@@ -305,13 +305,13 @@
         <animate
             attributeName="width"
             from="0"
-            to="102.51"
+            to="103.21"
             dur="1.1s"
             fill="freeze"/>
     </rect>
         <!-- Hard -->
     <rect
-        x="338.61194029851"
+        x="338.69047619048"
         y="258"
         width="0"
         height="12"
@@ -321,7 +321,7 @@
         <animate
             attributeName="width"
             from="0"
-            to="26.39"
+            to="26.31"
             dur="1.4s"
             fill="freeze"/>
     </rect>
@@ -345,7 +345,7 @@
         fill="#C9D1D9"
         font-family="Segoe UI, Arial"
     >
-        Medium 101    </text>
+        Medium 102    </text>
 
     <circle cx="255" cy="285" r="4" fill="#FF375F"/>
     <text

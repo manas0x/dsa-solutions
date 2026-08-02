@@ -23,6 +23,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0628-maximum-product-of-three-numbers](./LeetCode/Array/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](./LeetCode/Array/0860-lemonade-change) |
 | [0867-transpose-matrix](./LeetCode/Array/0867-transpose-matrix) |
+| [0877-stone-game](./LeetCode/Array/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](./LeetCode/Array/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](./LeetCode/Array/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](./LeetCode/Array/1301-number-of-paths-with-max-score) |
