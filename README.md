@@ -102,6 +102,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 ### Tree
 | Problem |
 | ------- |
+| [0100-same-tree](./LeetCode/Tree/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](./LeetCode/Tree/0104-maximum-depth-of-binary-tree) |
 
 ### Two Pointers
