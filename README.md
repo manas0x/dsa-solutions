@@ -87,6 +87,11 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](./LeetCode/Math/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](./LeetCode/Math/3783-mirror-distance-of-an-integer) |
 
+### Stack
+| Problem |
+| ------- |
+| [0094-binary-tree-inorder-traversal](./LeetCode/Stack/0094-binary-tree-inorder-traversal) |
+
 ### String
 | Problem |
 | ------- |
