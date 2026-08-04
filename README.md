@@ -42,6 +42,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [3514-number-of-unique-xor-triplets-ii](./LeetCode/Array/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](./LeetCode/Array/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](./LeetCode/Array/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](./LeetCode/Array/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](./LeetCode/Array/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](./LeetCode/Array/3739-count-subarrays-with-majority-element-ii) |
 | [3842-toggle-light-bulbs](./LeetCode/Array/3842-toggle-light-bulbs) |
