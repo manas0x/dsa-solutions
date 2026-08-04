@@ -99,6 +99,11 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0008-string-to-integer-atoi](./LeetCode/String/0008-string-to-integer-atoi) |
 | [3517-smallest-palindromic-rearrangement-i](./LeetCode/String/3517-smallest-palindromic-rearrangement-i) |
 
+### Tree
+| Problem |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](./LeetCode/Tree/0104-maximum-depth-of-binary-tree) |
+
 ### Two Pointers
 | Problem |
 | ------- |
