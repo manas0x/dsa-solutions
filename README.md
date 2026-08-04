@@ -91,6 +91,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | Problem |
 | ------- |
 | [0094-binary-tree-inorder-traversal](./LeetCode/Stack/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](./LeetCode/Stack/0145-binary-tree-postorder-traversal) |
 
 ### String
 | Problem |
