@@ -17,6 +17,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0055-jump-game](./LeetCode/Array/0055-jump-game) |
 | [0073-set-matrix-zeroes](./LeetCode/Array/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](./LeetCode/Array/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](./LeetCode/Array/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](./LeetCode/Array/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](./LeetCode/Array/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](./LeetCode/Array/0283-move-zeroes) |
