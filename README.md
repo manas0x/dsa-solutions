@@ -65,6 +65,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 ### Hash Table
 | Problem |
 | ------- |
+| [0142-linked-list-cycle-ii](./LeetCode/Hash-Table/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](./LeetCode/Hash-Table/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](./LeetCode/Hash-Table/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](./LeetCode/Hash-Table/1358-number-of-substrings-containing-all-three-characters) |
