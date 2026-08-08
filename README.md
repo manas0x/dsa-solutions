@@ -118,6 +118,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | Problem |
 | ------- |
 | [0125-valid-palindrome](./LeetCode/Two-Pointers/0125-valid-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](./LeetCode/Two-Pointers/3302-find-the-lexicographically-smallest-valid-sequence) |
 
 ### Unknown
 | Problem |
