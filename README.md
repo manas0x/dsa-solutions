@@ -88,6 +88,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0326-power-of-three](./LeetCode/Math/0326-power-of-three) |
 | [0509-fibonacci-number](./LeetCode/Math/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](./LeetCode/Math/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](./LeetCode/Math/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](./LeetCode/Math/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](./LeetCode/Math/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](./LeetCode/Math/3700-number-of-zigzag-arrays-ii) |
