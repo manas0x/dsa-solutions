@@ -1,0 +1,1 @@
+select id , student from (select id , (case when mod(id,2)=1 then lead(student,1,student) over (order by id) else lag(student,1) over(order by id) end) as student from Seat) as t;
