@@ -54,6 +54,11 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [3867-sum-of-gcd-of-formed-pairs](./LeetCode/Array/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](./LeetCode/Array/3898-find-the-degree-of-each-vertex) |
 
+### Database
+| Problem |
+| ------- |
+| [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
+
 ### Depth First Search
 | Problem |
 | ------- |
