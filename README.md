@@ -60,6 +60,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0584-find-customer-referee](./LeetCode/Database/0584-find-customer-referee) |
 | [0595-big-countries](./LeetCode/Database/0595-big-countries) |
 | [0626-exchange-seats](./LeetCode/Database/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](./LeetCode/Database/1068-product-sales-analysis-i) |
 | [1148-article-views-i](./LeetCode/Database/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
 | [1378-replace-employee-id-with-the-unique-identifier](./LeetCode/Database/1378-replace-employee-id-with-the-unique-identifier) |
