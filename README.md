@@ -57,6 +57,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 ### Database
 | Problem |
 | ------- |
+| [0626-exchange-seats](./LeetCode/Database/0626-exchange-seats) |
 | [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
 
 ### Depth First Search
