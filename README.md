@@ -58,6 +58,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | Problem |
 | ------- |
 | [0197-rising-temperature](./LeetCode/Database/0197-rising-temperature) |
+| [0577-employee-bonus](./LeetCode/Database/0577-employee-bonus) |
 | [0584-find-customer-referee](./LeetCode/Database/0584-find-customer-referee) |
 | [0595-big-countries](./LeetCode/Database/0595-big-countries) |
 | [0626-exchange-seats](./LeetCode/Database/0626-exchange-seats) |
