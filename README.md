@@ -65,6 +65,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1068-product-sales-analysis-i](./LeetCode/Database/1068-product-sales-analysis-i) |
 | [1148-article-views-i](./LeetCode/Database/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
+| [1280-students-and-examinations](./LeetCode/Database/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](./LeetCode/Database/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](./LeetCode/Database/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](./LeetCode/Database/1661-average-time-of-process-per-machine) |
