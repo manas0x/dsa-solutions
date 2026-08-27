@@ -71,6 +71,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1661-average-time-of-process-per-machine](./LeetCode/Database/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](./LeetCode/Database/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](./LeetCode/Database/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](./LeetCode/Database/1978-employees-whose-manager-left-the-company) |
 
 ### Depth First Search
 | Problem |
