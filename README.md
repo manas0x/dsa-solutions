@@ -65,6 +65,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [0620-not-boring-movies](./LeetCode/Database/0620-not-boring-movies) |
 | [0626-exchange-seats](./LeetCode/Database/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](./LeetCode/Database/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](./LeetCode/Database/1075-project-employees-i) |
 | [1148-article-views-i](./LeetCode/Database/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](./LeetCode/Database/1251-average-selling-price) |
