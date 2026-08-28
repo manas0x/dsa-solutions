@@ -72,6 +72,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1280-students-and-examinations](./LeetCode/Database/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](./LeetCode/Database/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](./LeetCode/Database/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1633-percentage-of-users-attended-a-contest](./LeetCode/Database/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](./LeetCode/Database/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](./LeetCode/Database/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](./LeetCode/Database/1757-recyclable-and-low-fat-products) |
