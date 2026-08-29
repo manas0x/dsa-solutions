@@ -68,6 +68,7 @@ A comprehensive collection of my data structures and algorithms solutions, neatl
 | [1075-project-employees-i](./LeetCode/Database/1075-project-employees-i) |
 | [1148-article-views-i](./LeetCode/Database/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](./LeetCode/Database/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](./LeetCode/Database/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](./LeetCode/Database/1251-average-selling-price) |
 | [1280-students-and-examinations](./LeetCode/Database/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](./LeetCode/Database/1378-replace-employee-id-with-the-unique-identifier) |
